@@ -8,7 +8,7 @@ function AboutMe() {
       <h1>Aditya Chaudhari</h1>
       <img src={photo} alt="PassportPhoto" />
       <div>
-        <p>Prod</p>
+        <p>dev</p>
         <p>
           I am Aditya, I am from Goa, India. I have completed my bachelors of
           engineering from the University of Mumbai in 2021. I have 2 years of
